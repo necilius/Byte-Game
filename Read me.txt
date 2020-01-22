@@ -1,0 +1,11 @@
+	Byte - Command prompt game
+
+- This is a game implemented in lisp language. You can start game with command
+clisp byte.lisp.
+- You need to have installed CLISP interrpretator and if it is not added to default PATH environment variable, you must add it.
+
+	C# apllication
+
+- C# app starts lisp process in background and redirects it's IO operations.
+- C# app gives graphics implemented with GDI+
+- You need to have installed CLISP interrpretator and if it is not added to default PATH environment variable, you must add it.
